@@ -171,6 +171,8 @@ lightroom-date-hierarchy-export/
     └── TranslatedStrings_zh_tw.txt
 ```
 
+For maintainer release steps, see [RELEASING.md](RELEASING.md).
+
 ## Troubleshooting
 
 **Exported files are still all in one flat folder**

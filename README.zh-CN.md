@@ -158,6 +158,8 @@ lightroom-date-hierarchy-export/
     └── TranslatedStrings_zh_tw.txt
 ```
 
+发布流程见 [RELEASING.md](RELEASING.md)。
+
 ## 常见问题
 
 **导出后文件还是全部平铺**
